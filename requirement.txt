@@ -1,0 +1,9 @@
+langchain
+langchain_community
+faiss-cpu
+PyPDF2
+streamlit
+pypdf
+langchain-openai
+langchain_openai
+ragas
